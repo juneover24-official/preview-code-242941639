@@ -1,116 +1,8 @@
 {
   "qq_number": "242941639",
   "group_number": "1033674163",
-  "updated_at": "2026-04-22T16:19:15.771976",
+  "updated_at": "2026-04-23T15:52:36.396903",
   "skins": [
-    {
-      "name": "秋の求领养小兔",
-      "file": "秋の求领养小兔.bds",
-      "thumb": "秋の求领养小兔.bds_py_26_default_thumb.png",
-      "full": "秋の求领养小兔.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の你蒜个小猫球",
-      "file": "秋の你蒜个小猫球.bds",
-      "thumb": "秋の你蒜个小猫球.bds_py_26_default_thumb.png",
-      "full": "秋の你蒜个小猫球.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の小浅",
-      "file": "秋の小浅.bds",
-      "thumb": "秋の小浅.bds_py_26_default_thumb.png",
-      "full": "秋の小浅.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の一口小饼干",
-      "file": "秋の一口小饼干.bds",
-      "thumb": "秋の一口小饼干.bds_py_26_default_thumb.png",
-      "full": "秋の一口小饼干.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の小猪酱酱",
-      "file": "秋の小猪酱酱.bds",
-      "thumb": "秋の小猪酱酱.bds_py_26_default_thumb.png",
-      "full": "秋の小猪酱酱.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の新年快乐鸭",
-      "file": "秋の新年快乐鸭.bds",
-      "thumb": "秋の新年快乐鸭.bds_py_26_default_thumb.png",
-      "full": "秋の新年快乐鸭.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の超萌乖乖兔",
-      "file": "秋の超萌乖乖兔.bds",
-      "thumb": "秋の超萌乖乖兔.bds_py_26_default_thumb.png",
-      "full": "秋の超萌乖乖兔.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の遇事只会哭",
-      "file": "秋の遇事只会哭.bds",
-      "thumb": "秋の遇事只会哭.bds_py_26_default_thumb.png",
-      "full": "秋の遇事只会哭.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の开心贴贴乐",
-      "file": "秋の伞下小兔.bds",
-      "thumb": "秋の伞下小兔.bds_py_26_default_thumb.png",
-      "full": "秋の伞下小兔.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の辣妹小兔",
-      "file": "秋の辣妹小兔.bds",
-      "thumb": "秋の辣妹小兔.bds_py_26_default_thumb.png",
-      "full": "秋の辣妹小兔.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の小黄鸭历险记",
-      "file": "秋の小黄鸭历险记.bds",
-      "thumb": "秋の小黄鸭历险记.bds_py_26_default_thumb.png",
-      "full": "秋の小黄鸭历险记.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の撒娇小喵",
-      "file": "秋の撒娇小喵.bds",
-      "thumb": "秋の撒娇小喵.bds_py_26_default_thumb.png",
-      "full": "秋の撒娇小喵.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の好多草莓椰",
-      "file": "秋の好多草莓椰.bds",
-      "thumb": "秋の好多草莓椰.bds_py_26_default_thumb.png",
-      "full": "秋の好多草莓椰.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の画画の贝贝",
-      "file": "秋の画画の贝贝.bds",
-      "thumb": "秋の画画の贝贝.bds_py_26_default_thumb.png",
-      "full": "秋の画画の贝贝.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の小猫堡",
-      "file": "秋の小猫堡.bds",
-      "thumb": "秋の小猫堡.bds_py_26_default_thumb.png",
-      "full": "秋の小猫堡.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の咩咩兔崽",
-      "file": "秋の咩咩兔崽.bds",
-      "thumb": "秋の咩咩兔崽.bds_py_26_default_thumb.png",
-      "full": "秋の咩咩兔崽.bds_py_26_default.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "秋の粘嘴口香糖.bds",
-      "thumb": "秋の粘嘴口香糖.bds_py_26_default_thumb.png",
-      "full": "秋の粘嘴口香糖.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の提线木偶",
-      "file": "秋の提线木偶.bds",
-      "thumb": "秋の提线木偶.bds_py_26_default_thumb.png",
-      "full": "秋の提线木偶.bds_py_26_default.png"
-    },
     {
       "name": "秋の新年快乐鸭",
       "file": "秋の新年快乐鸭.bdi",
@@ -224,6 +116,114 @@
       "file": "秋の小猪酱酱.bdi",
       "thumb": "秋の小猪酱酱.bdi_py_26_default_thumb.png",
       "full": "秋の小猪酱酱.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の求领养小兔",
+      "file": "秋の求领养小兔.bds",
+      "thumb": "秋の求领养小兔.bds_py_26_default_thumb.png",
+      "full": "秋の求领养小兔.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の你蒜个小猫球",
+      "file": "秋の你蒜个小猫球.bds",
+      "thumb": "秋の你蒜个小猫球.bds_py_26_default_thumb.png",
+      "full": "秋の你蒜个小猫球.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の小浅",
+      "file": "秋の小浅.bds",
+      "thumb": "秋の小浅.bds_py_26_default_thumb.png",
+      "full": "秋の小浅.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の一口小饼干",
+      "file": "秋の一口小饼干.bds",
+      "thumb": "秋の一口小饼干.bds_py_26_default_thumb.png",
+      "full": "秋の一口小饼干.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の小猪酱酱",
+      "file": "秋の小猪酱酱.bds",
+      "thumb": "秋の小猪酱酱.bds_py_26_default_thumb.png",
+      "full": "秋の小猪酱酱.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の新年快乐鸭",
+      "file": "秋の新年快乐鸭.bds",
+      "thumb": "秋の新年快乐鸭.bds_py_26_default_thumb.png",
+      "full": "秋の新年快乐鸭.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の超萌乖乖兔",
+      "file": "秋の超萌乖乖兔.bds",
+      "thumb": "秋の超萌乖乖兔.bds_py_26_default_thumb.png",
+      "full": "秋の超萌乖乖兔.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の遇事只会哭",
+      "file": "秋の遇事只会哭.bds",
+      "thumb": "秋の遇事只会哭.bds_py_26_default_thumb.png",
+      "full": "秋の遇事只会哭.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の开心贴贴乐",
+      "file": "秋の伞下小兔.bds",
+      "thumb": "秋の伞下小兔.bds_py_26_default_thumb.png",
+      "full": "秋の伞下小兔.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の辣妹小兔",
+      "file": "秋の辣妹小兔.bds",
+      "thumb": "秋の辣妹小兔.bds_py_26_default_thumb.png",
+      "full": "秋の辣妹小兔.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の小黄鸭历险记",
+      "file": "秋の小黄鸭历险记.bds",
+      "thumb": "秋の小黄鸭历险记.bds_py_26_default_thumb.png",
+      "full": "秋の小黄鸭历险记.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の撒娇小喵",
+      "file": "秋の撒娇小喵.bds",
+      "thumb": "秋の撒娇小喵.bds_py_26_default_thumb.png",
+      "full": "秋の撒娇小喵.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の好多草莓椰",
+      "file": "秋の好多草莓椰.bds",
+      "thumb": "秋の好多草莓椰.bds_py_26_default_thumb.png",
+      "full": "秋の好多草莓椰.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の画画の贝贝",
+      "file": "秋の画画の贝贝.bds",
+      "thumb": "秋の画画の贝贝.bds_py_26_default_thumb.png",
+      "full": "秋の画画の贝贝.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の小猫堡",
+      "file": "秋の小猫堡.bds",
+      "thumb": "秋の小猫堡.bds_py_26_default_thumb.png",
+      "full": "秋の小猫堡.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の咩咩兔崽",
+      "file": "秋の咩咩兔崽.bds",
+      "thumb": "秋の咩咩兔崽.bds_py_26_default_thumb.png",
+      "full": "秋の咩咩兔崽.bds_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "秋の粘嘴口香糖.bds",
+      "thumb": "秋の粘嘴口香糖.bds_py_26_default_thumb.png",
+      "full": "秋の粘嘴口香糖.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の提线木偶",
+      "file": "秋の提线木偶.bds",
+      "thumb": "秋の提线木偶.bds_py_26_default_thumb.png",
+      "full": "秋の提线木偶.bds_py_26_default.png"
     }
   ]
 }

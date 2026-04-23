@@ -1,92 +1,8 @@
 {
   "qq_number": "242941639",
   "group_number": "1064268558",
-  "updated_at": "2026-04-22T16:19:14.948852",
+  "updated_at": "2026-04-23T15:52:35.328963",
   "skins": [
-    {
-      "name": "秋の我要喝奶奶",
-      "file": "秋の我要喝奶奶.bds",
-      "thumb": "秋の我要喝奶奶.bds_py_26_default_thumb.png",
-      "full": "秋の我要喝奶奶.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の小兔当家",
-      "file": "秋の小兔当家.bds",
-      "thumb": "秋の小兔当家.bds_py_26_default_thumb.png",
-      "full": "秋の小兔当家.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の待领养小猫",
-      "file": "秋の待领养小猫.bds",
-      "thumb": "秋の待领养小猫.bds_py_26_default_thumb.png",
-      "full": "秋の待领养小猫.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の仙女棒棒",
-      "file": "秋の仙女棒棒.bds",
-      "thumb": "秋の仙女棒棒.bds_py_26_default_thumb.png",
-      "full": "秋の仙女棒棒.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の大笨蛋",
-      "file": "秋の大笨蛋.bds",
-      "thumb": "秋の大笨蛋.bds_py_26_default_thumb.png",
-      "full": "秋の大笨蛋.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の浅色系女孩",
-      "file": "秋の浅色系女孩.bds",
-      "thumb": "秋の浅色系女孩.bds_py_26_default_thumb.png",
-      "full": "秋の浅色系女孩.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の小熊抱抱",
-      "file": "秋の小熊抱抱.bds",
-      "thumb": "秋の小熊抱抱.bds_py_26_default_thumb.png",
-      "full": "秋の小熊抱抱.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の公主饱饱",
-      "file": "秋の公主饱饱.bds",
-      "thumb": "秋の公主饱饱.bds_py_26_default_thumb.png",
-      "full": "秋の公主饱饱.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の圣诞剧透",
-      "file": "秋の圣诞剧透.bds",
-      "thumb": "秋の圣诞剧透.bds_py_26_default_thumb.png",
-      "full": "秋の圣诞剧透.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の嘎嘣脆",
-      "file": "秋の嘎嘣脆.bds",
-      "thumb": "秋の嘎嘣脆.bds_py_26_default_thumb.png",
-      "full": "秋の嘎嘣脆.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の堆雪人",
-      "file": "秋の堆雪人.bds",
-      "thumb": "秋の堆雪人.bds_py_26_default_thumb.png",
-      "full": "秋の堆雪人.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の蝴蝶结小兔兔",
-      "file": "秋の蝴蝶结小兔兔.bds",
-      "thumb": "秋の蝴蝶结小兔兔.bds_py_26_default_thumb.png",
-      "full": "秋の蝴蝶结小兔兔.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の小猪蛋糕",
-      "file": "秋の小猪蛋糕.bds",
-      "thumb": "秋の小猪蛋糕.bds_py_26_default_thumb.png",
-      "full": "秋の小猪蛋糕.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の仙女下凡",
-      "file": "秋の仙女下凡.bds",
-      "thumb": "秋の仙女下凡.bds_py_26_default_thumb.png",
-      "full": "秋の仙女下凡.bds_py_26_default.png"
-    },
     {
       "name": "秋の堆雪人",
       "file": "秋の堆雪人.bdi",
@@ -176,6 +92,90 @@
       "file": "秋の小熊抱抱.bdi",
       "thumb": "秋の小熊抱抱.bdi_py_26_default_thumb.png",
       "full": "秋の小熊抱抱.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の我要喝奶奶",
+      "file": "秋の我要喝奶奶.bds",
+      "thumb": "秋の我要喝奶奶.bds_py_26_default_thumb.png",
+      "full": "秋の我要喝奶奶.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の小兔当家",
+      "file": "秋の小兔当家.bds",
+      "thumb": "秋の小兔当家.bds_py_26_default_thumb.png",
+      "full": "秋の小兔当家.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の待领养小猫",
+      "file": "秋の待领养小猫.bds",
+      "thumb": "秋の待领养小猫.bds_py_26_default_thumb.png",
+      "full": "秋の待领养小猫.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の仙女棒棒",
+      "file": "秋の仙女棒棒.bds",
+      "thumb": "秋の仙女棒棒.bds_py_26_default_thumb.png",
+      "full": "秋の仙女棒棒.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の大笨蛋",
+      "file": "秋の大笨蛋.bds",
+      "thumb": "秋の大笨蛋.bds_py_26_default_thumb.png",
+      "full": "秋の大笨蛋.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の浅色系女孩",
+      "file": "秋の浅色系女孩.bds",
+      "thumb": "秋の浅色系女孩.bds_py_26_default_thumb.png",
+      "full": "秋の浅色系女孩.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の小熊抱抱",
+      "file": "秋の小熊抱抱.bds",
+      "thumb": "秋の小熊抱抱.bds_py_26_default_thumb.png",
+      "full": "秋の小熊抱抱.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の公主饱饱",
+      "file": "秋の公主饱饱.bds",
+      "thumb": "秋の公主饱饱.bds_py_26_default_thumb.png",
+      "full": "秋の公主饱饱.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の圣诞剧透",
+      "file": "秋の圣诞剧透.bds",
+      "thumb": "秋の圣诞剧透.bds_py_26_default_thumb.png",
+      "full": "秋の圣诞剧透.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の嘎嘣脆",
+      "file": "秋の嘎嘣脆.bds",
+      "thumb": "秋の嘎嘣脆.bds_py_26_default_thumb.png",
+      "full": "秋の嘎嘣脆.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の堆雪人",
+      "file": "秋の堆雪人.bds",
+      "thumb": "秋の堆雪人.bds_py_26_default_thumb.png",
+      "full": "秋の堆雪人.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の蝴蝶结小兔兔",
+      "file": "秋の蝴蝶结小兔兔.bds",
+      "thumb": "秋の蝴蝶结小兔兔.bds_py_26_default_thumb.png",
+      "full": "秋の蝴蝶结小兔兔.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の小猪蛋糕",
+      "file": "秋の小猪蛋糕.bds",
+      "thumb": "秋の小猪蛋糕.bds_py_26_default_thumb.png",
+      "full": "秋の小猪蛋糕.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の仙女下凡",
+      "file": "秋の仙女下凡.bds",
+      "thumb": "秋の仙女下凡.bds_py_26_default_thumb.png",
+      "full": "秋の仙女下凡.bds_py_26_default.png"
     }
   ]
 }

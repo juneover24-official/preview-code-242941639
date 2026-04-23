@@ -1,56 +1,8 @@
 {
   "qq_number": "242941639",
   "group_number": "674206302",
-  "updated_at": "2026-04-22T16:19:14.933965",
+  "updated_at": "2026-04-23T15:52:35.343197",
   "skins": [
-    {
-      "name": "秋の贴纸4",
-      "file": "秋の贴纸4.bds",
-      "thumb": "秋の贴纸4.bds_py_26_default_thumb.png",
-      "full": "秋の贴纸4.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の贴纸1",
-      "file": "秋の贴纸1.bds",
-      "thumb": "秋の贴纸1.bds_py_26_default_thumb.png",
-      "full": "秋の贴纸1.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の贴纸3",
-      "file": "秋の贴纸3.bds",
-      "thumb": "秋の贴纸3.bds_py_26_default_thumb.png",
-      "full": "秋の贴纸3.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の贴纸8",
-      "file": "秋の贴纸8.bds",
-      "thumb": "秋の贴纸8.bds_py_26_default_thumb.png",
-      "full": "秋の贴纸8.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の贴纸6",
-      "file": "秋の贴纸6.bds",
-      "thumb": "秋の贴纸6.bds_py_26_default_thumb.png",
-      "full": "秋の贴纸6.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の贴纸2",
-      "file": "秋の贴纸2.bds",
-      "thumb": "秋の贴纸2.bds_py_26_default_thumb.png",
-      "full": "秋の贴纸2.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の贴纸7",
-      "file": "秋の贴纸7.bds",
-      "thumb": "秋の贴纸7.bds_py_26_default_thumb.png",
-      "full": "秋の贴纸7.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の贴纸5",
-      "file": "秋の贴纸5.bds",
-      "thumb": "秋の贴纸5.bds_py_26_default_thumb.png",
-      "full": "秋の贴纸5.bds_py_26_default.png"
-    },
     {
       "name": "秋の贴纸8",
       "file": "秋の贴纸8.bdi",
@@ -98,6 +50,54 @@
       "file": "秋の贴纸3.bdi",
       "thumb": "秋の贴纸3.bdi_py_26_default_thumb.png",
       "full": "秋の贴纸3.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の贴纸4",
+      "file": "秋の贴纸4.bds",
+      "thumb": "秋の贴纸4.bds_py_26_default_thumb.png",
+      "full": "秋の贴纸4.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の贴纸1",
+      "file": "秋の贴纸1.bds",
+      "thumb": "秋の贴纸1.bds_py_26_default_thumb.png",
+      "full": "秋の贴纸1.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の贴纸3",
+      "file": "秋の贴纸3.bds",
+      "thumb": "秋の贴纸3.bds_py_26_default_thumb.png",
+      "full": "秋の贴纸3.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の贴纸8",
+      "file": "秋の贴纸8.bds",
+      "thumb": "秋の贴纸8.bds_py_26_default_thumb.png",
+      "full": "秋の贴纸8.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の贴纸6",
+      "file": "秋の贴纸6.bds",
+      "thumb": "秋の贴纸6.bds_py_26_default_thumb.png",
+      "full": "秋の贴纸6.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の贴纸2",
+      "file": "秋の贴纸2.bds",
+      "thumb": "秋の贴纸2.bds_py_26_default_thumb.png",
+      "full": "秋の贴纸2.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の贴纸7",
+      "file": "秋の贴纸7.bds",
+      "thumb": "秋の贴纸7.bds_py_26_default_thumb.png",
+      "full": "秋の贴纸7.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の贴纸5",
+      "file": "秋の贴纸5.bds",
+      "thumb": "秋の贴纸5.bds_py_26_default_thumb.png",
+      "full": "秋の贴纸5.bds_py_26_default.png"
     }
   ]
 }
