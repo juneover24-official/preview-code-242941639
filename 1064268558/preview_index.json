@@ -1,7 +1,7 @@
 {
   "qq_number": "242941639",
   "group_number": "1064268558",
-  "updated_at": "2026-04-23T15:52:35.328963",
+  "updated_at": "2026-07-06T07:23:43+00:00",
   "skins": [
     {
       "name": "秋の堆雪人",
@@ -176,6 +176,12 @@
       "file": "秋の仙女下凡.bds",
       "thumb": "秋の仙女下凡.bds_py_26_default_thumb.png",
       "full": "秋の仙女下凡.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の萌炸了",
+      "file": "秋の萌炸了.bdi",
+      "thumb": "秋の萌炸了.bdi_py_26_light_thumb.png",
+      "full": "秋の萌炸了.bdi_py_26_light_thumb.png"
     }
   ]
 }
