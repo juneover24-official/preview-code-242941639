@@ -1,7 +1,7 @@
 {
   "qq_number": "242941639",
   "group_number": "1064268558",
-  "updated_at": "2026-07-06T07:23:43+00:00",
+  "updated_at": "2026-07-19T13:04:54+00:00",
   "skins": [
     {
       "name": "秋の堆雪人",
@@ -182,6 +182,12 @@
       "file": "秋の萌炸了.bdi",
       "thumb": "秋の萌炸了.bdi_py_26_light_thumb.png",
       "full": "秋の萌炸了.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "秋の美乐蒂甜甜圈",
+      "file": "秋の美乐蒂甜甜圈.bdi",
+      "thumb": "秋の美乐蒂甜甜圈.bdi_py_26_light_thumb.png",
+      "full": "秋の美乐蒂甜甜圈.bdi_py_26_light_thumb.png"
     }
   ]
 }
