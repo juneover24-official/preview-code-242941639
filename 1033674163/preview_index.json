@@ -1,7 +1,7 @@
 {
   "qq_number": "242941639",
   "group_number": "1033674163",
-  "updated_at": "2026-08-03T16:08:19+00:00",
+  "updated_at": "2026-08-03T16:08:26+00:00",
   "skins": [
     {
       "name": "秋の新年快乐鸭",
@@ -350,6 +350,12 @@
       "file": "秋の永辉专属掉落.bds",
       "thumb": "秋の永辉专属掉落.bds_py_26_light_thumb.png",
       "full": "秋の永辉专属掉落.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "秋の丫够嘚瑟的",
+      "file": "秋の丫够嘚瑟的.bds",
+      "thumb": "秋の丫够嘚瑟的.bds_py_26_light_thumb.png",
+      "full": "秋の丫够嘚瑟的.bds_py_26_light_thumb.png"
     }
   ]
 }
