@@ -1,7 +1,7 @@
 {
   "qq_number": "242941639",
   "group_number": "1048539332",
-  "updated_at": "2026-10-28T10:56:07+00:00",
+  "updated_at": "2026-10-28T11:07:32+00:00",
   "skins": [
     {
       "name": "秋の美乐蒂",
@@ -65,6 +65,13 @@
       "thumb": "秋の草莓女孩.bdi_py_26_light_thumb.png",
       "full": "秋の草莓女孩.bdi_py_26_light_thumb.png",
       "file_id": "591c17b0fb57fc060e2474779e46abe8"
+    },
+    {
+      "name": "秋の邻家小妹妹",
+      "file": "秋の领家小妹妹.bdi",
+      "thumb": "秋の领家小妹妹.bdi_py_26_light_thumb.png",
+      "full": "秋の领家小妹妹.bdi_py_26_light_thumb.png",
+      "file_id": "a89a58f8eba1fb2e5bd264a6aef3a2d1"
     }
   ]
 }
