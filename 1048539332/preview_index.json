@@ -1,7 +1,7 @@
 {
   "qq_number": "242941639",
   "group_number": "1048539332",
-  "updated_at": "2026-10-28T10:43:29+00:00",
+  "updated_at": "2026-10-28T10:45:23+00:00",
   "skins": [
     {
       "name": "秋の美乐蒂",
@@ -44,6 +44,13 @@
       "thumb": "秋の小兔乖.bdi_py_26_light_thumb.png",
       "full": "秋の小兔乖.bdi_py_26_light_thumb.png",
       "file_id": "d2504b60a14f36881c7dc543fb5b5b0d"
+    },
+    {
+      "name": "秋の我太爱上学了",
+      "file": "秋の我太爱上学了.bdi",
+      "thumb": "秋の我太爱上学了.bdi_py_26_light_thumb.png",
+      "full": "秋の我太爱上学了.bdi_py_26_light_thumb.png",
+      "file_id": "9a4758e4f0b57919e8510ab52ecdc949"
     }
   ]
 }
