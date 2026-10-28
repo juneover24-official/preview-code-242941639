@@ -1,7 +1,7 @@
 {
   "qq_number": "242941639",
   "group_number": "1048539332",
-  "updated_at": "2026-09-23T03:03:13+00:00",
+  "updated_at": "2026-10-28T10:41:42+00:00",
   "skins": [
     {
       "name": "秋の美乐蒂",
@@ -23,6 +23,13 @@
       "thumb": "秋の不知名小熊.bdi_py_26_light_thumb.png",
       "full": "秋の不知名小熊.bdi_py_26_light_thumb.png",
       "file_id": "e2cba5d8346a4469f136be21dc772434"
+    },
+    {
+      "name": "秋の牛马熊",
+      "file": "秋の牛马熊.bdi",
+      "thumb": "秋の牛马熊.bdi_py_26_light_thumb.png",
+      "full": "秋の牛马熊.bdi_py_26_light_thumb.png",
+      "file_id": "ab95208bf7fb571c643fe61a85e46edb"
     }
   ]
 }
