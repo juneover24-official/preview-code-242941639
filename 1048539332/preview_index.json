@@ -1,7 +1,7 @@
 {
   "qq_number": "242941639",
   "group_number": "1048539332",
-  "updated_at": "2026-10-28T11:07:32+00:00",
+  "updated_at": "2026-10-28T11:08:03+00:00",
   "skins": [
     {
       "name": "秋の美乐蒂",
@@ -72,6 +72,13 @@
       "thumb": "秋の领家小妹妹.bdi_py_26_light_thumb.png",
       "full": "秋の领家小妹妹.bdi_py_26_light_thumb.png",
       "file_id": "a89a58f8eba1fb2e5bd264a6aef3a2d1"
+    },
+    {
+      "name": "秋の为你撑伞",
+      "file": "秋の为你撑伞.bdi",
+      "thumb": "秋の为你撑伞.bdi_py_26_light_thumb.png",
+      "full": "秋の为你撑伞.bdi_py_26_light_thumb.png",
+      "file_id": "5d95a19138f08974e64c3b40c282f135"
     }
   ]
 }
