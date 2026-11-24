@@ -1,7 +1,7 @@
 {
   "qq_number": "242941639",
   "group_number": "1033674163",
-  "updated_at": "2026-11-24T05:42:48+00:00",
+  "updated_at": "2026-11-24T05:44:27+00:00",
   "skins": [
     {
       "name": "秋の新年快乐鸭",
@@ -489,6 +489,13 @@
       "thumb": "秋の小猫星月糖.bds_py_26_light_thumb.png",
       "full": "秋の小猫星月糖.bds_py_26_light_thumb.png",
       "file_id": "9f020ece1475f38ba6f7879b066a47ff"
+    },
+    {
+      "name": "秋の樱桃熟透了",
+      "file": "秋の樱桃熟透了.bds",
+      "thumb": "秋の樱桃熟透了.bds_py_26_light_thumb.png",
+      "full": "秋の樱桃熟透了.bds_py_26_light_thumb.png",
+      "file_id": "7be2232fd95f2bda4f5ac98eb9bb78c3"
     }
   ]
 }
