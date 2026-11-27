@@ -1,7 +1,7 @@
 {
   "qq_number": "242941639",
   "group_number": "1033674163",
-  "updated_at": "2026-11-24T08:33:13+00:00",
+  "updated_at": "2026-11-27T07:45:36+00:00",
   "skins": [
     {
       "name": "秋の新年快乐鸭",
@@ -510,6 +510,13 @@
       "thumb": "秋の点亮圣诞.bds_py_26_light_thumb.png",
       "full": "秋の点亮圣诞.bds_py_26_light_thumb.png",
       "file_id": "23049ea4247a9cc42b33b5af0e6c61d7"
+    },
+    {
+      "name": "秋の小宅宝",
+      "file": "秋の小宅宝.bdi",
+      "thumb": "秋の小宅宝.bdi_py_26_light_thumb.png",
+      "full": "秋の小宅宝.bdi_py_26_light_thumb.png",
+      "file_id": "85a2ad327eff7173db559ee04f18aacf"
     }
   ]
 }
